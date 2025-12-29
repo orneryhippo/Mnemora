@@ -1,0 +1,7 @@
+{
+  "name": "Memora - Science-Backed Memory Enhancement",
+  "description": "A comprehensive cognitive training platform leveraging spaced repetition, retrieval practice, and AI-powered mnemonic tutoring to systematically improve memory retention and recall.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
